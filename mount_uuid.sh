@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 
 # ==========================================
 # Mount Filesystem Using UUID
@@ -29,29 +28,3 @@ sudo mount -U YOUR_UUID /mnt/my_uuid_mount
 
 # Display mounted filesystem
 df -h /mnt/my_uuid_mount
-# ==========================================
-# Mount Filesystem Using UUID
-# Student Name:
-# Roll Number:
-# ==========================================
-
-
-# Display filesystem UUID
-
-
-
-
-# Create mount directory
-
-
-
-
-# Mount filesystem using UUID
-# Replace YOUR_UUID with actual UUID
-
-
-
-
-# Display mounted filesystem
-
-
